@@ -1,0 +1,1 @@
+# Curse-Client-Full-Version
