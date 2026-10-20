@@ -238,4 +238,4 @@ This repository serves as the official landing page for Curse Client. The softwa
 **Get the most recent version of Curse Client today!**
 
 ---
-**Last updated:** 2026-10-19 21:49:54 UTC
+**Last updated:** 2026-10-20 00:47:20 UTC
